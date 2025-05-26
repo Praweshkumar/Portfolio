@@ -17,7 +17,7 @@ const projects = [
   {
     title: "Portfolio",
     description: "Personal portfolio website built with React and TailwindCSS featuring responsive design and smooth UX.",
-    link: "https://github.com/Praweshkumar/Portfolio",
+    link: "https://visionary-malabi-1728f7.netlify.app/",
   },
 ];
 
